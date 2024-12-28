@@ -19,7 +19,7 @@ public function login(String $Email, String $Password ){
 
          return $user;
 }
- 
+ /*fonction register*/
 public function register(array $data){
    
    
